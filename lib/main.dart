@@ -39,8 +39,6 @@ class ListView1 extends StatelessWidget {
     Icons.directions_railway,
     Icons.directions_run
   ];
-  // git config --global user.email "you@example.com"
-  // git config --global user.name "Your Name"
 
   @override
   Widget build(BuildContext context) {
